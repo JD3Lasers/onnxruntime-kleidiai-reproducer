@@ -1,0 +1,11 @@
+{
+  "schema": "miscue.beatthis_onnx_model.v1",
+  "model_file_name": "beatthis-final0.onnx",
+  "sha256": "e0024b9af8f9a0da5e2541e89ec92cfca82530aaaa33a9692d6f22626f0ebaf7",
+  "model_version": "final0-onnx-opset14",
+  "source_url": "https://cloud.cp.jku.at/public.php/dav/files/7ik4RrBKTS273gp/final0.ckpt",
+  "source_commit": "ad7974846029835307ba19a3d5cefbf40b243041",
+  "code_license": "MIT (CPJKU/beat_this)",
+  "weights_license": "MIT (CPJKU/beat_this published model weights)",
+  "training_data_provenance": "BeatThis final0 training-data provenance risk is accepted for Miscue v1; retain the upstream dataset evidence in the P11.3 package inventory."
+}
